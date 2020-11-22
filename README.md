@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Amir M. Jahangirzadeh. I am a computer engineering student at the Islamic Azad University of Urmia
+My name is Amir M. Jahangirzadeh. I am a computer engineering student in the Islamic Azad University of Urmia
 
 I am a Unix systems programmer and I am also Very Interested To Web Penetration Testing and Reverse Engineering
 
