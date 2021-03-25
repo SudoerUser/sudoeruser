@@ -17,4 +17,4 @@ I am a Unix systems programmer and I am also Very Interested To Web Penetration 
 </p>
 
 
-![](https://github-readme-stats.vercel.app/api?username=sudoeruser&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=sudoeruser&show_icons=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoeruser)
