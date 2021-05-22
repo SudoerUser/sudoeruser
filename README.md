@@ -11,7 +11,7 @@ I am a Unix systems programmer and I am also Very Interested To Web Penetration 
     <img src="https://img.shields.io/badge/-Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-Golang-007ACC?style=for-the-badge&logo=Go&logoColor=white" alt="Golang">
     <img src="https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/-C++-007DCC?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     
     
 </p>
