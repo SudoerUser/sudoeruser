@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Amir M. Jahangirzadeh.I am a Unix systems programmer and I am also Very Interested To *nix Systems Programming,Reverse Engineering and Malware Analysis.
+My name is Amir M. Jahangirzadeh.I am a Unix systems programmer and I am also Very Interested To Reverse Engineering and Malware Analysis.
 
 <h2 align="center">Technologies & Languages I use</h2>
 
